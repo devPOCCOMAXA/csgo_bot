@@ -1,0 +1,4 @@
+-2147467261 Значение не может быть неопределенным.
+Имя параметра: value
+Source: mscorlib
+Method: Int32 IndexOf(System.String, Int32, Int32, System.StringComparison)
