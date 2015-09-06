@@ -1,0 +1,3 @@
+-2146233040 Поток находился в процессе прерывания.
+Source: System
+Method: Void SyncRead(System.Net.HttpWebRequest, Boolean, Boolean)
